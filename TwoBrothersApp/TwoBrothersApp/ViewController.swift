@@ -9,10 +9,20 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    //MARK:Properties. Start here
+    
+    //========MARK ends here
+    
+    //MARK: Actions
+    
+    
+    //========Actions end here
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        //====attempt to change login bg image?
+        
     }
 
     override func didReceiveMemoryWarning() {
